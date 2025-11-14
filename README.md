@@ -91,7 +91,7 @@ Includes: - KPIs
 ------------------------------------------------------------------------
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://media.licdn.com/dms/image/v2/D4D22AQHuDCIDfEnK-A/feedshare-shrink_2048_1536/B4DZqEVYytGsA0-/0/1763156791353?e=1764806400&v=beta&t=W0NhVvr1mb5gHfXhPxqlzrcDOJxFZtbwVshiJHr5XXk)
 
 ------------------------------------------------------------------------
 
